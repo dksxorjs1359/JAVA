@@ -12,10 +12,19 @@ public class OperEx05 {
 		//long c =(long) 1000000L * b;
 		//long c =(long) a * b;
 		System.out.println(c);
+		
 		long k = 1_000_000 * 1_000_000;
 		long m = 1_000_000 * 1_000_000L;
+		
 		System.out.println(k);
 		System.out.println(m);
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 
